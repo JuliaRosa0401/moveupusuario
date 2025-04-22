@@ -1,0 +1,12 @@
+body {
+      font-family: 'Urbanist', sans-serif;
+      background: linear-gradient(145deg, #0f0f0f, #1a1a1a);
+      color: #fdfdfd;
+    }
+    .glow {
+      box-shadow: 0 0 10px #f1c40f, 0 0 20px #f1c40f;
+    }
+    .neon-border {
+      border: 2px solid #8e44ff;
+      box-shadow: 0 0 10px #8e44ff;
+    }
