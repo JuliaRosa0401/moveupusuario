@@ -93,3 +93,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 Para mais informações e demonstrações, visite o site oficial: [academiamoveup.vercel.app](https://academiamoveup.vercel.app/)
+
+## Autores
+| [<img src="https://avatars.githubusercontent.com/u/165316263?v=4" width=115><br><sub>Sarah Dias Venâncio</sub>](https://github.com/SarahVenancio) |  [<img src="https://avatars.githubusercontent.com/u/165318420?s=100&v=4" width=115><br><sub>Julia de Moura Rosa</sub>](https://github.com/JuliaRosa0401) |
+| :---: | :---: |
